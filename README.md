@@ -4,7 +4,7 @@ A basic arithmetic calculator built with HTML, CSS, and JavaScript.
 
 ## Features
 
-- Addition, subtraction, multiplication, division
+- Addition, subtraction, multiplication, division.
 - Clear button (C)
 
 ## How to Run
