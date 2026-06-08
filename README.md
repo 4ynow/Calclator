@@ -17,3 +17,8 @@ A basic arithmetic calculator built with HTML, CSS, and JavaScript.
 - `index.html` – page structure
 - `style.css` – styling
 - `main.js` – calculator logic
+
+## About This Project
+
+This is a personal project I built to practice HTML, CSS, and JavaScript.  
+It’s open‑source – feel free to modify it, use it, or learn from it.
