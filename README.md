@@ -12,8 +12,6 @@ A basic arithmetic calculator built with HTML, CSS, and JavaScript.
 1. Download or clone the repository
 2. Open `index.html` in your browser
 
-![Calculator Screenshot](screenshot.png)
-
 ## Files
 
 - `index.html` – page structure
